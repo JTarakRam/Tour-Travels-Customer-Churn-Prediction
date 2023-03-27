@@ -27,9 +27,8 @@ To run this project, you will need to install the required libraries. You can do
 pip install numpy <br>
 pip install pandas <br>
 pip install scikit-learn<br>
-Usage<br>
-<br>
-To use this project, you can run the Jupyter Notebook Tour&Travels Customer Churn Prediction.ipynb. The notebook contains all the code used for the project, including EDA, data preprocessing, feature engineering, and model selection and evaluation.<br>
+**Usage**<br>
+To use this project, you can run the Jupyter Notebook Tour&Travels Customer -- Churn_Prediction.ipynb. The notebook contains all the code used for the project, including EDA, data preprocessing, feature engineering, and model selection and evaluation.<br>
 
 **Contributors**<br>
 This project was created by Tarak Ram. If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
