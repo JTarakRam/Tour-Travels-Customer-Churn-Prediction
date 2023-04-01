@@ -21,6 +21,7 @@ The project was developed using the following technologies:<br>
 + NumPy<br>
 + Pandas<br>
 + Scikit-learn<br>
+
 **Installation**
 To run this project, you will need to install the required libraries. You can do this using pip:<br>
 pip install numpy pandas scikit-learn<br>
