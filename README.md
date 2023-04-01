@@ -15,6 +15,7 @@ We will use a machine learning algorithm to predict customer churn based on the 
 + Model selection to choose the best algorithm for predicting churn.<br>
 <br>
 The project was developed using the following technologies:<br>
+
 + Python 3.8 above <br>
 + Jupyter Notebook<br>
 + NumPy<br>
